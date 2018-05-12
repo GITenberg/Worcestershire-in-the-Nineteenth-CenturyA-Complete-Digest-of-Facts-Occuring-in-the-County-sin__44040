@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '42536'
     url: http://www.gutenberg.org/2009/agents/42536
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44040#Worcestershire-in-the-Nineteenth-CenturyA-Complete-Digest-of-Facts-Occuring-in-the-County-sin_
 gutenberg_issued: '2013-10-26'
 gutenberg_type: Text
 identifiers:
