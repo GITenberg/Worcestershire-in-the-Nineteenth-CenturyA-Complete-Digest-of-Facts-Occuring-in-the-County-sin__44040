@@ -1,0 +1,30 @@
+_repo: Worcestershire-in-the-Nineteenth-CenturyA-Complete-Digest-of-Facts-Occuring-in-the-County-sin__44040
+_version: 0.1.0
+alternative_title: "Worcestershire in the 19th Century\r\nA Complete Digest of Facts\
+  \ Occuring in the County since the Commencement of the year 1800"
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Turberville, T. C.
+    gutenberg_agent_id: '42536'
+    url: http://www.gutenberg.org/2009/agents/42536
+description: ''
+gutenberg_issued: '2013-10-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44040'
+  lccn: '03006251'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Worcester (England) -- History'
+title: 'Worcestershire in the Nineteenth Century
+
+  A Complete Digest of Facts Occuring in the County since the Commencement of the
+  year 1800'
+url: http://www.gutenberg.org/ebooks/44040
